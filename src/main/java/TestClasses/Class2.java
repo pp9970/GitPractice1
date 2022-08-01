@@ -6,6 +6,8 @@ public class Class2
 	{
 		System.out.println("User");
 		System.out.println("Pass");
+		System.out.println("pin");
+		System.out.println("login");
 		
 	}
 
