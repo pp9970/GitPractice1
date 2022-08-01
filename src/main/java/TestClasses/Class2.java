@@ -8,7 +8,8 @@ public class Class2
 		System.out.println("Pass");
 		System.out.println("pin");
 		System.out.println("login");
-		
+		System.out.println("hii");
+		System.out.println("heyy");
 	}
 
 }
